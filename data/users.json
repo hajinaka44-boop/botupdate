@@ -44,7 +44,7 @@
     "country_limits": {},
     "lang": "id",
     "mode": 2,
-    "state": null,
+    "state": "WAIT_RANGE",
     "stex_numbers": {},
     "stex_range": "2250104xxx",
     "seen_otps": []
