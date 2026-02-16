@@ -1,4 +1,13 @@
 {
   "date": "2026-02-16",
-  "countries": {}
+  "countries": {
+    "Nigeria": 164,
+    "Venezuela": 17,
+    "Honduras": 70,
+    "Kyrgyzstan": 10,
+    "Tajikistan": 10,
+    "Togo": 12,
+    "Tunisia": 14,
+    "Guinea": 45
+  }
 }
