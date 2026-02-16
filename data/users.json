@@ -3581,6 +3581,7 @@
     "all_numbers": {},
     "sent_otps": {},
     "country_limits": {},
-    "joined_at": "2026-02-16T20:45:23.031880"
+    "joined_at": "2026-02-16T20:45:23.031880",
+    "mode": 1
   }
 }
