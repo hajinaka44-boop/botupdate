@@ -1,16 +1,17 @@
 {
   "date": "2026-02-18",
   "countries": {
-    "Zimbabwe": 170,
-    "Guinea": 108,
+    "Zimbabwe": 184,
+    "Guinea": 132,
     "Kyrgyzstan": 16,
     "Guatemala": 15,
-    "Iran": 15,
+    "Iran": 30,
     "Tajikistan": 55,
-    "Vietnam": 30,
+    "Vietnam": 45,
     "Bolivia": 16,
-    "Algeria": 17,
+    "Algeria": 22,
     "Nepal": 1,
-    "Central African Republic": 5
+    "Central African Republic": 5,
+    "Sudan": 15
   }
 }
