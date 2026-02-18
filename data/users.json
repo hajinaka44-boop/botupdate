@@ -356,7 +356,7 @@
     "country_limits": {},
     "lang": "id",
     "mode": 2,
-    "state": null,
+    "state": "WAIT_CARI_RANGE",
     "stex_numbers": {
       "2250153681025": {
         "last_otp": null,
