@@ -310,8 +310,8 @@
     },
     "country_limits": {},
     "lang": "id",
-    "mode": 2,
-    "state": "WAIT_RANGE",
+    "mode": 1,
+    "state": null,
     "stex_numbers": {
       "2250153681025": {
         "last_otp": null,
