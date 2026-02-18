@@ -2427,7 +2427,7 @@
     "joined_at": "2026-02-07T16:44:14.078891",
     "lang": "en",
     "mode": 2,
-    "state": null,
+    "state": "WAIT_RANGE",
     "stex_numbers": {},
     "stex_range": "228962XXX"
   },
