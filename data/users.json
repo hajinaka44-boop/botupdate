@@ -303,7 +303,7 @@
     "country_limits": {},
     "lang": "id",
     "mode": 2,
-    "state": "WAIT_RANGE",
+    "state": null,
     "stex_numbers": {
       "2250153681025": {
         "last_otp": null,
@@ -324,9 +324,13 @@
       "2250757683696": {
         "last_otp": null,
         "last_time": null
+      },
+      "23672226741": {
+        "last_otp": null,
+        "last_time": null
       }
     },
-    "stex_range": "225075768XXX",
+    "stex_range": "2367222xxx",
     "seen_otps": []
   },
   "6405657429": {
