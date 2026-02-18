@@ -7194,7 +7194,12 @@
     "country_limits": {}
   },
   "7743777825": {
-    "otpHistory": [],
+    "otpHistory": [
+      {
+        "timestamp": 1771441489,
+        "number": "+224629383617"
+      }
+    ],
     "all_numbers": {
       "+224621577632": {
         "timestamp": 1771441283
@@ -7242,7 +7247,9 @@
         "timestamp": 1771441283
       }
     },
-    "sent_otps": {},
+    "sent_otps": {
+      "+224629383617": "893-085"
+    },
     "country_limits": {},
     "joined_at": "2026-02-18T18:28:52.286991"
   }
